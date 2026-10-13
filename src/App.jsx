@@ -1,5 +1,5 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
-import { AppLayout } from './components/AppLayout.jsx'
+import { AppLayout } from './Components/AppLayout.jsx'
 import Awards from './pages/Awards.jsx'
 import Blog from './pages/Blog.jsx'
 import Contact from './pages/Contact.jsx'
