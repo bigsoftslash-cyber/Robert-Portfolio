@@ -1,4 +1,4 @@
-import { CtaGroup } from '../components/RoundButton.jsx'
+import { CtaGroup } from '../Components/RoundButton.jsx'
 
 const awards = [
   {

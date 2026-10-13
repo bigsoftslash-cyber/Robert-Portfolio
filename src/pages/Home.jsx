@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { CtaGroup } from '../components/RoundButton.jsx'
+import { CtaGroup } from '../Components/RoundButton.jsx'
 import heroMan from '../assets/img/hero-man.png'
 
 const stats = [

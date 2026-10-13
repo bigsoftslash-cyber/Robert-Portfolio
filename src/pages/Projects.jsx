@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { ListRow } from '../components/ListRow.jsx'
-import { CtaGroup } from '../components/RoundButton.jsx'
+import { ListRow } from '../Components/ListRow.jsx'
+import { CtaGroup } from '../Components/RoundButton.jsx'
 import heroMan from '../assets/img/Home.png'
 
 const items = [
